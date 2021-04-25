@@ -1,0 +1,3 @@
+[submodule "plugin.program.opendevtools"]
+	path = plugin.program.opendevtools
+	url = https://github.com/drinfernoo/plugin.program.opendevtools
